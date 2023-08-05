@@ -36,10 +36,10 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/finstockfestival2019-1.jpg': 'center',
-							'images/finstockfestival2019-2.jpg': 'center',
-							'images/finstockfestival2019-3.jpg': 'center',
-							'images/finstockfestival2019-4.jpg': 'center'							
+							'images/growler1.jpg': 'center',
+							'images/crowd2.jpg': 'center',
+							'images/crowd9.jpg': 'center',
+							'images/crowd11.jpg': 'center'							
 						},
 
 					// Delay.
